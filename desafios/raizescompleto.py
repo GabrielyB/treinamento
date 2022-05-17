@@ -1,7 +1,4 @@
-#ele deve calcular as equações de segundo grau.
-#se o delta for igual a zero só uma raiz
-#delta menor que zero não tem raizes reais
-#delta maior que zero duas raizes
+#ele deve calcular as equações de primeiro e segundo grau.
 
 import math
 from re import X 
